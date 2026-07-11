@@ -8,6 +8,4 @@ hello()
 
 # add comment
 
-## added bad block
-
 ### added other things
